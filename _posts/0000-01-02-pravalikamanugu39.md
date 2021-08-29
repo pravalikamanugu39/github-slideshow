@@ -1,11 +1,6 @@
 ---
-
 layout: slide
-
-title: "Welcome to our second slide!"
-
+title: "Welcome to out second slide!"
 ---
-
-Your text
-
+"It takes time,resilience and everything to build what we dream"
 Use the left arrow to go back!
